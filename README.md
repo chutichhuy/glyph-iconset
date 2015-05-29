@@ -1,6 +1,6 @@
 # Glyph SVG Icon Set
 
-![Preview](https://raw.githubusercontent.com/frexy/glyph-iconset/master/cover.svg)
+![Preview](https://raw.githubusercontent.com/frexy/glyph-iconset/master/cover.png)
 
 Glyph is a collection of ~800 beautiful pixel-perfect SVG icons, designed for the modern web. Glyph is 16x16, but because it's SVG, it can be any size you want.
 
