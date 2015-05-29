@@ -1,0 +1,16 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-clipboard">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>967</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(2.000000, 0.000000)" fill="#434343">
+            <g>
+                <path d="M9.002,1.016 L9.002,1.953 L12.016,1.953 L12.016,15.042 L0.971,15.042 L0.971,1.953 L3.953,1.953 L3.953,1.047 L0,1.047 L0,16 L13,16 L13,1.016 L9.002,1.016 Z" class="si-glyph-fill"></path>
+                <path d="M7.95,1.5 C7.95,0.672 7.298,0 6.491,0 C5.683,0 5.031,0.672 5.031,1.5 C5.031,1.676 5.066,1.843 5.121,2 L5.064,2 L5.064,3 L7.937,3 L7.937,2 L7.861,2 C7.915,1.843 7.95,1.676 7.95,1.5 Z M5.969,2.016 L5.969,0.959 L7.016,0.959 L7.016,2.016 L5.969,2.016 Z" class="si-glyph-fill"></path>
+            </g>
+            <path d="M9.031,3 L9.031,4.016 L3.969,4.016 L3.969,3 L2.029,3 L2.029,14 L10.98,14 L10.98,3 L9.031,3 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

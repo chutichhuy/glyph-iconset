@@ -1,0 +1,10 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-shield-star">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>600</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8.00051234,0 C4.68670481,0 2,1.958 2,1.958 L2.00512339,8.056 C2.00512339,13.091 8.00153702,16 8.00153702,16 C8.00153702,16 14,13.259 14,8.041 L14,1.958 C14,1.958 11.3143199,0 8.00051234,0 L8.00051234,0 Z M9.607,7.875 L10.562,10.814 L8.062,8.998 L5.56,10.814 L6.515,7.875 L4.015,6.059 L7.106,6.059 L8.062,3.119 L9.017,6.059 L12.108,6.059 L9.607,7.875 L9.607,7.875 Z" fill="#434343" class="si-glyph-fill"></path>
+    </g>
+</svg>

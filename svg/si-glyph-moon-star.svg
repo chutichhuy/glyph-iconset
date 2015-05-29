@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-moon-star">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>1143</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 1.000000)" fill="#434343">
+            <path d="M10.705,12.274 C6.901,12.274 3.818,9.189 3.818,5.386 C3.818,3.242 4.798,1.327 6.334,0.065 C2.748,0.892 0.072,4.099 0.072,7.936 C0.072,12.401 3.691,16.021 8.156,16.021 C11.994,16.021 15.199,13.345 16.027,9.758 C14.764,11.295 12.85,12.274 10.705,12.274 L10.705,12.274 Z" class="si-glyph-fill"></path>
+            <path d="M12.719,0.021 L13.744,2.224 L16.037,2.576 L14.379,4.291 L14.77,6.711 L12.719,5.568 L10.668,6.711 L11.059,4.291 L9.398,2.576 L11.692,2.224 L12.719,0.021 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

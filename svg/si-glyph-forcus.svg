@@ -1,0 +1,15 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-forcus">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>1242</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 0.000000)" fill="#434343">
+            <path d="M1.999,4.875 L1.999,3.01 C1.999,2.452 2.451,1.999 3.01,1.999 L4.918,1.999 L4.918,0.082 L3.066,0.082 C1.421,0.082 0.083,1.421 0.083,3.066 L0.083,4.875 L1.999,4.875 L1.999,4.875 Z" class="si-glyph-fill"></path>
+            <path d="M11.083,1.999 L13.031,1.999 C13.589,1.999 14.043,2.452 14.043,3.01 L14.043,4.875 L15.918,4.875 L15.918,3.066 C15.918,1.42 14.578,0.082 12.933,0.082 L11.083,0.082 L11.083,1.999 L11.083,1.999 Z" class="si-glyph-fill"></path>
+            <path d="M4.918,14.042 L3.01,14.042 C2.451,14.042 1.999,13.589 1.999,13.031 L1.999,11.083 L0.083,11.083 L0.083,12.933 C0.083,14.579 1.422,15.917 3.066,15.917 L4.918,15.917 L4.918,14.042 L4.918,14.042 Z" class="si-glyph-fill"></path>
+            <path d="M14.043,11.083 L14.043,13.031 C14.043,13.589 13.589,14.042 13.031,14.042 L11.083,14.042 L11.083,15.917 L12.933,15.917 C14.579,15.917 15.918,14.578 15.918,12.933 L15.918,11.083 L14.043,11.083 L14.043,11.083 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

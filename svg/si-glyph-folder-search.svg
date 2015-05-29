@@ -1,0 +1,17 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-folder-search">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>Folder-search</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#434343">
+            <path d="M13.959,1 L13.959,0.043 L6.043,0.043 L7.043,1 L13.959,1 Z" class="si-glyph-fill"></path>
+            <path d="M4.002,8.486 C4.002,10.408 5.564,11.966 7.492,11.966 C9.418,11.966 10.98,10.407 10.98,8.486 C10.98,6.565 9.418,5.007 7.492,5.007 C5.564,5.008 4.002,6.565 4.002,8.486 L4.002,8.486 Z M10.009,8.5 C10.009,9.914 8.871,11.062 7.471,11.062 C6.069,11.062 4.932,9.915 4.932,8.5 C4.932,7.084 6.069,5.936 7.471,5.936 C8.871,5.936 10.009,7.084 10.009,8.5 L10.009,8.5 Z" class="si-glyph-fill"></path>
+            <g>
+                <path d="M3.652,0 L1,0 L1,1 L0,1 L0,13 L1.016,13 L1.018,14 L10.536,14 L9.237,12.721 C8.69,12.95 8.092,13.076 7.464,13.076 C4.911,13.076 2.837,11.004 2.837,8.458 C2.837,5.912 4.911,3.842 7.464,3.842 C10.015,3.842 12.093,5.912 12.093,8.458 C12.093,9.049 11.97,9.609 11.767,10.13 L15.484,14 L15.904,14 L15.937,2 L6,2 L3.652,0 Z" class="si-glyph-fill"></path>
+                <path d="M14.021,14.029 L13.084,15.008 L10.502,12.467 L11.521,11.426 L14.021,14.029 Z" class="si-glyph-fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>

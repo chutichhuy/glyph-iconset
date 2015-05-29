@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-coffee-machine">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>691</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 0.000000)" fill="#434343">
+            <path d="M0.021,15.085 L0.021,15.964 L16,15.964 L16,13.036 L2.027,13.036 C0.918,13.036 0.021,13.953 0.021,15.085 L0.021,15.085 Z" class="si-glyph-fill"></path>
+            <path d="M5.035,12 L5.953,12 C7.057,12 7.953,11.074 7.953,9.933 L7.953,8.037 L3.035,8.037 L3.035,9.028 L2.035,9.028 L2.035,9.933 L3.035,9.933 C3.035,11.074 3.932,12 5.035,12 L5.035,12 Z" class="si-glyph-fill"></path>
+            <path d="M0.083,0.083 L0.083,1.917 C0.083,2.993 0.934,2.864 2,2.908 L2,3.958 L4.042,3.958 L4.042,5.958 L5,5.958 L5,6.875 L5.959,6.875 L5.959,3.958 L7.875,3.958 L7.875,2.917 L10,2.917 L10,11.984 L16,11.984 L16,0.083 L0.083,0.083 L0.083,0.083 Z M5.042,3.084 L3.917,3.084 L3.917,1.916 L5.042,1.916 L5.042,3.084 L5.042,3.084 Z M7.042,3.084 L5.917,3.084 L5.917,1.916 L7.042,1.916 L7.042,3.084 L7.042,3.084 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

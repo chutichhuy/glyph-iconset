@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-test-tube">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>Test-tube</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(2.000000, 0.000000)" fill="#434343">
+            <path d="M10.921,0.969 C10.921,0.032 10.83,0.031 9.871,0.031 L3.13,0.031 C2.172,0.031 2.078,0.032 2.078,0.969 L3.031,0.969 L3.031,3.909 L0.019,14.238 C0.019,15.177 0.796,15.937 1.755,15.937 L11.244,15.937 C12.202,15.937 12.98,15.177 12.98,14.238 L9.992,3.879 L9.978,0.969 L10.921,0.969 L10.921,0.969 Z M11.969,13.606 C12.24,14.49 11.766,15.041 10.537,15.041 L2.562,15.041 C1.161,15.041 0.817,14.448 1.13,13.606 L3.916,3.954 L3.905,0.941 L9.03,0.941 L9.03,3.93 L11.969,13.606 L11.969,13.606 Z" class="si-glyph-fill"></path>
+            <path d="M8.039,6.031 L5.019,6.031 L3.181,12.339 C2.826,13.489 2.941,13.923 4.589,13.923 L8.468,13.923 C10.101,13.923 10.138,13.405 9.877,12.339 L8.039,6.031 L8.039,6.031 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-golf-ball">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>147</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(3.000000, 0.000000)" fill="#434343">
+            <path d="M3.031,12 L5.031,13.969 L5.031,16 L5.938,16 L5.938,13.969 L7.938,12 L3.031,12 Z" class="si-glyph-fill"></path>
+            <path d="M0.031,5.453 C0.031,8.465 2.472,10.906 5.484,10.906 C8.496,10.906 10.937,8.465 10.937,5.453 C10.937,2.441 8.496,0 5.484,0 C2.472,0 0.031,2.441 0.031,5.453 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

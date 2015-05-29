@@ -1,0 +1,16 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-microphone-1">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>728</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 0.000000)" fill="#434343">
+            <path d="M15.608,13.715 L10.041,7.299 C9.553,8.502 8.518,9.475 7.336,10.022 L13.752,15.547 C14.264,16.054 15.097,16.054 15.608,15.547 C16.122,15.041 16.122,14.221 15.608,13.715 L15.608,13.715 Z" class="si-glyph-fill"></path>
+            <g>
+                <path d="M7.736,1.49 C7.316,2.88 6.492,4.234 5.347,5.38 C4.207,6.52 2.837,7.34 1.456,7.76 C2.251,8.485 3.303,8.938 4.468,8.938 C6.937,8.938 8.937,6.952 8.937,4.5 C8.938,3.334 8.476,2.282 7.736,1.49 L7.736,1.49 Z" class="si-glyph-fill"></path>
+                <path d="M6.877,0.771 C6.182,0.327 5.357,0.062 4.469,0.062 C2,0.062 0,2.048 0,4.5 C0,5.397 0.273,6.229 0.733,6.928 C2.097,6.614 3.492,5.822 4.64,4.673 C5.79,3.523 6.56,2.15 6.877,0.771 L6.877,0.771 Z" class="si-glyph-fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-louder-speaker">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>646</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#434343">
+            <path d="M0.031,4.571 L0.031,7.25 C0.031,8.118 0.697,9 1.521,9 L7.968,9 L7.968,3 L1.521,3 C0.697,3 0.031,3.703 0.031,4.571 Z" class="si-glyph-fill"></path>
+            <path d="M7.063,15.938 L4.025,15.938 L2.062,9.062 L5.1,9.062 L7.063,15.938 Z" class="si-glyph-fill"></path>
+            <path d="M13,0 L9,2.76 L9,8.741 L13,12 L13,0 Z" class="si-glyph-fill"></path>
+            <path d="M13,3.989 L13,8 C14.086,8 14.969,7.103 14.969,5.994 C14.969,4.887 14.086,3.989 13,3.989 L13,3.989 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-arrow-three-way-2">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>883</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 0.000000)" fill="#434343">
+            <path d="M11.062,4.938 L7.958,0.059 L5.03,4.94 L7,4.94 L7,6.746 C7,7.486 7.234,7.907 7.974,7.907 C8.711,7.907 8.969,7.486 8.969,6.746 L8.969,4.939 L11.062,4.938 L11.062,4.938 Z" class="si-glyph-fill"></path>
+            <path d="M10.041,14.934 L15.823,14.928 L13.271,9.841 L12.216,11.503 L10.691,10.535 C10.066,10.138 9.586,10.111 9.189,10.735 C8.793,11.357 9.011,11.8 9.636,12.197 L11.161,13.165 L10.041,14.934 L10.041,14.934 Z" class="si-glyph-fill"></path>
+            <path d="M5.939,14.85 L0.157,14.844 L2.709,9.757 L3.764,11.419 L5.289,10.451 C5.914,10.054 6.395,10.027 6.791,10.651 C7.186,11.273 6.969,11.716 6.344,12.113 L4.819,13.081 L5.939,14.85 L5.939,14.85 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

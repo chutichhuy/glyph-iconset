@@ -1,0 +1,20 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-adjustment-vertical">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>1196</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 0.000000)" fill="#434343">
+            <path d="M1,0 L0.99999999,5.00708008 L2.95043944,5.00708008 L2.95043945,0 L1,0 Z" class="si-glyph-fill"></path>
+            <path d="M1,11 L0.99999999,15.9581299 L3.00952147,15.9581299 L3.00952148,11 L1,11 Z" class="si-glyph-fill"></path>
+            <path d="M7,14 L6.99999999,15.9759521 L8.96630858,15.9759521 L8.96630859,14 L7,14 Z" class="si-glyph-fill"></path>
+            <path d="M7,0 L6.99999999,8 L9,8 L9,0 L7,0 Z" class="si-glyph-fill"></path>
+            <path d="M13,9 L13,15.9420166 L14.9768066,15.9420166 L14.9768066,9 L13,9 Z" class="si-glyph-fill"></path>
+            <path d="M13,0 L13,2.93310547 L15.0090332,2.93310547 L15.0090332,0 L13,0 Z" class="si-glyph-fill"></path>
+            <path d="M13.9170001,8.0489502 C14.9757299,8.0489502 16.0111084,7.05489644 16.0111084,5.96800005 C16.0111084,4.88110367 14.9757299,4 13.917,4 C12.8582701,4 12,4.88110361 12,5.968 C12,7.05489639 12.8582702,8.0489502 13.9170001,8.0489502 Z" class="si-glyph-fill"></path>
+            <path d="M7.91700006,13.0091553 C8.97572992,13.0091553 9.9576416,11.9586548 9.9576416,10.906 C9.9576416,9.85334529 8.97572987,9 7.917,9 C6.85827013,9 6,9.85334527 6,10.906 C6,11.9586547 6.85827019,13.0091553 7.91700006,13.0091553 Z" class="si-glyph-fill"></path>
+            <path d="M1.91700006,9.98864746 C2.97572992,9.98864746 3.97399902,8.97572992 3.97399902,7.91700006 C3.97399902,6.85827019 2.97572987,6 1.917,6 C0.858270135,6 0,6.85827013 0,7.917 C0,8.97572987 0.85827019,9.98864746 1.91700006,9.98864746 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

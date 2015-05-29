@@ -1,0 +1,10 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-thermometer">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>870</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9.984,9.261 L9.984,0.735 C9.984,0.364 9.613,0.063 9.154,0.063 L7.844,0.063 C7.386,0.063 7.015,0.364 7.015,0.735 L7.015,9.26 C5.742,9.779 4.999,11.026 4.999,12.485 C4.999,14.409 6.56,15.969 8.483,15.969 C10.406,15.969 11.967,14.408 11.967,12.485 C11.969,11.026 11.256,9.78 9.984,9.261 L9.984,9.261 Z M7.947,0.957 L9.02,0.957 L9.02,10 L7.947,10 L7.947,0.957 L7.947,0.957 Z" fill="#434343" class="si-glyph-fill"></path>
+    </g>
+</svg>

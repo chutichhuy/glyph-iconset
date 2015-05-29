@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-cone">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>903</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 1.000000)" fill="#434343">
+            <path d="M15.287,12.025 L13.274,12.025 L12.746,10.025 L3.176,10.025 L2.648,12.025 L0.692,12.025 C0.322,12.025 0.021,12.296 0.021,12.634 L0.021,13.318 C0.021,13.655 0.322,13.927 0.692,13.927 L15.288,13.927 C15.658,13.927 15.959,13.655 15.959,13.318 L15.959,12.634 C15.958,12.297 15.657,12.025 15.287,12.025 L15.287,12.025 Z" class="si-glyph-fill"></path>
+            <path d="M10.207,0.031 L5.797,0.031 L5.038,2.952 L10.969,2.952 L10.207,0.031 Z" class="si-glyph-fill"></path>
+            <path d="M11.346,5.004 L4.658,5.004 L4.021,7.955 L11.984,7.955 L11.346,5.004 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

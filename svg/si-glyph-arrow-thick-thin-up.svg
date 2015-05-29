@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-arrow-thick-thin-up">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>740</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 2.000000)" fill="#434343">
+            <path d="M14.666,6.333 C14.465,6.333 14.262,6.288 14.07,6.192 L8.002,3.158 L1.931,6.192 C1.271,6.522 0.472,6.254 0.143,5.595 C-0.187,4.937 0.081,4.136 0.739,3.807 L7.405,0.474 C7.78,0.286 8.223,0.286 8.598,0.474 L15.264,3.807 C15.922,4.136 16.19,4.937 15.86,5.595 C15.627,6.063 15.155,6.333 14.666,6.333 L14.666,6.333 Z" class="si-glyph-fill"></path>
+            <path d="M14.666,10.666 C14.566,10.666 14.465,10.644 14.369,10.596 L8.002,7.412 L1.633,10.596 C1.304,10.76 0.903,10.627 0.738,10.298 C0.573,9.969 0.707,9.569 1.037,9.403 L7.703,6.07 C7.891,5.976 8.111,5.976 8.299,6.07 L14.965,9.403 C15.295,9.568 15.428,9.968 15.264,10.298 C15.146,10.531 14.911,10.666 14.666,10.666 L14.666,10.666 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

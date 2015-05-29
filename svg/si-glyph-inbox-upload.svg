@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-inbox-upload">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>843</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 0.000000)" fill="#434343">
+            <path d="M10.768,2.757 L8.579,0.244 C8.264,-0.07 7.753,-0.07 7.436,0.244 L5.247,2.757 C4.932,3.072 4.884,3.633 5.198,3.947 L7,3.947 L7,5.869 C7,6.428 7.434,6.879 7.969,6.879 C8.504,6.879 8.938,6.428 8.938,5.869 L8.938,3.947 L10.719,3.947 C11.034,3.632 11.083,3.072 10.768,2.757 L10.768,2.757 Z" class="si-glyph-fill"></path>
+            <path d="M13.993,1.006 L10.703,1.006 L11.594,1.981 L13.177,1.981 L14.54,9.01 L1.505,9.01 L2.912,1.981 L4.594,1.981 L5.36,1.006 L2.073,1.006 L0.013,9.761 L0.013,13.931 C0.013,15.265 0.485,15.959 1.817,15.959 L14.097,15.959 C15.343,15.959 15.982,15.432 15.982,13.848 L15.982,9.761 L13.993,1.006 L13.993,1.006 Z M10.016,11 L5.985,11 L5.985,9.969 L10.016,9.969 L10.016,11 L10.016,11 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

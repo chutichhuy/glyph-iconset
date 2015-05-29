@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-candy">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>1055</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(4.000000, 0.000000)" fill="#434343">
+            <path d="M4.484,0.037 C2.99,0.037 1.693,0.823 1.015,1.984 L7.951,1.984 C7.275,0.823 5.977,0.037 4.484,0.037 L4.484,0.037 Z" class="si-glyph-fill"></path>
+            <path d="M8.724,3.021 L0.278,3.021 C0.141,3.021 0.03,3.123 0.03,3.247 L0.03,5.745 C0.03,5.869 0.141,5.97 0.278,5.97 L8.724,5.97 C8.862,5.97 8.972,5.869 8.972,5.745 L8.972,3.247 C8.972,3.123 8.861,3.021 8.724,3.021 L8.724,3.021 Z" class="si-glyph-fill"></path>
+            <path d="M7.982,7.006 L1.009,7.006 C1.593,8.058 2.751,8.808 3.999,9.003 L3.999,15.953 L4.261,15.953 L4.261,15.984 L4.858,15.984 L4.858,15.953 L4.984,15.953 L4.984,9.021 C6.275,8.863 7.377,8.095 7.982,7.006 L7.982,7.006 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

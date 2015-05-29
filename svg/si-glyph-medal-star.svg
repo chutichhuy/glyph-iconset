@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-medal-star">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>942</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(3.000000, 0.000000)" fill="#434343">
+            <path d="M5.007,5.996 L6.078,9.016 L9.618,9.016 L6.74,11.318 L7.834,14.807 L4.969,12.65 L2.105,14.807 L3.199,11.318 L0.349,9.016 L3.889,9.016 L5.007,5.996 Z" class="si-glyph-fill"></path>
+            <path d="M5.007,1.947 L7.283,7.986 L8.5,7.986 L8.969,1.367 C8.969,1.367 9.151,0.041 7.768,0.041 L2.252,0.041 C0.891,0.041 1.017,1.346 1.017,1.346 L1.505,7.987 L2.734,7.987 L5.007,1.947 L5.007,1.947 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

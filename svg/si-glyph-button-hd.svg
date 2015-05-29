@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-button-hd">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>1022</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 2.000000)" fill="#434343">
+            <path d="M13.276,0 L8.015,1.062 L2.723,0 C1.218,0 -0.001,1.243 -0.001,2.777 L-0.001,8.187 C-0.001,9.721 1.218,10.964 2.723,10.964 L8.015,9.952 L13.276,10.964 C14.78,10.964 16,9.721 16,8.187 L16,2.777 C16,1.243 14.78,0 13.276,0 L13.276,0 Z M7.045,8.032 L5.957,8.032 L5.957,6.062 L4.061,6.062 L4.061,8.032 L2.973,8.032 L2.973,2.969 L4.061,2.969 L4.061,4.938 L5.957,4.938 L5.957,2.969 L7.045,2.969 L7.045,8.032 L7.045,8.032 Z M11,8.061 L8.953,8.061 L8.953,2.96 L11,2.959 C13.303,2.959 13.072,3.771 13.072,5.511 C13.072,7.249 13.407,8.061 11,8.061 L11,8.061 Z" class="si-glyph-fill"></path>
+            <path d="M11.197,4.006 L10,4.006 L10,6.985 L11.197,6.985 C12.187,6.969 11.989,6.737 11.989,5.497 C11.989,4.254 12.188,4.02 11.197,4.006 L11.197,4.006 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

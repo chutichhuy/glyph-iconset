@@ -1,0 +1,16 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-document-arrow-right">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>Document-forward</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 0.000000)" fill="#434343">
+            <g transform="translate(2.000000, 0.000000)">
+                <path d="M7,4 L11,4 L7,0 L7,4 Z" class="si-glyph-fill"></path>
+                <path d="M6,5.042 L6,0.042 L0,0.042 L0,11.445 L3.583,14.583 L1.612,15.979 L11,15.979 L11,5.042 L6,5.042 Z" class="si-glyph-fill"></path>
+            </g>
+            <path d="M2.084,13.004 L2.087,14.004 L0.0429999999,14.004 L0.0429999999,14.979 L2.093,14.979 L2.097,15.958 L3.942,14.506 L2.084,13.004 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

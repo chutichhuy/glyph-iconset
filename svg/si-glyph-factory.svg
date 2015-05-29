@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-factory">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>Factory</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 2.000000)" fill="#434343">
+            <g>
+                <path d="M13,0 L13,7 L9,4 L9,7 L5,4 L5,7 L0,4 L0,13 L15,13 L15,0 L13,0 L13,0 Z M3,10 L1,10 L1,8 L3,8 L3,10 L3,10 Z M7,10 L5,10 L5,8 L7,8 L7,10 L7,10 Z M11,10 L9,10 L9,8 L11,8 L11,10 L11,10 Z" class="si-glyph-fill"></path>
+            </g>
+        </g>
+    </g>
+</svg>

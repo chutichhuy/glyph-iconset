@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-clapboard-play">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>617</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 1.000000)" fill="#434343">
+            <path d="M0.979,7.954 L15.895,4.431 L14.915,0.375 L0,3.898 L0.979,7.954 L0.979,7.954 Z M12.487,4.357 L11.039,2.045 L13.049,1.559 L14.498,3.871 L12.487,4.357 L12.487,4.357 Z M9.137,5.167 L7.688,2.855 L9.697,2.37 L11.147,4.682 L9.137,5.167 L9.137,5.167 Z M5.785,5.977 L4.337,3.665 L6.347,3.18 L7.796,5.492 L5.785,5.977 L5.785,5.977 Z M2.436,6.787 L0.987,4.475 L2.996,3.99 L4.445,6.302 L2.436,6.787 L2.436,6.787 Z" class="si-glyph-fill"></path>
+            <path d="M1,8.037 L1,16.037 L16,16.037 L16,8.037 L1,8.037 L1,8.037 Z M7.904,14.167 L7.904,9.917 L11.136,12.086 L7.904,14.167 L7.904,14.167 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

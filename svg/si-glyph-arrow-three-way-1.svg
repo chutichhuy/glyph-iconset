@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-arrow-three-way-1">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow-three-way</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 0.000000)" fill="#434343">
+            <path d="M9.816,3.989 C10.043,3.763 10.041,3.396 9.816,3.172 L7.433,0.169 C7.206,-0.057 6.84,-0.057 6.615,0.169 L4.232,3.172 C4.006,3.397 4.006,3.764 4.232,3.989 L6.043,3.989 L6.043,15.968 L7.979,15.968 L7.979,3.989 L9.816,3.989 L9.816,3.989 Z" class="si-glyph-fill"></path>
+            <path d="M13.516,5.008 L10.53,5.358 C10.28,5.358 10.076,5.565 10.076,5.82 L10.884,6.641 L9.024,8.531 L9.024,16.001 L10.98,16.001 L10.98,9.359 L12.27,8.053 L13.173,8.973 C13.423,8.974 13.626,8.766 13.628,8.511 L13.97,5.469 C13.969,5.214 13.766,5.007 13.516,5.008 L13.516,5.008 Z" class="si-glyph-fill"></path>
+            <path d="M4.002,8.842 C4.002,8.587 3.795,8.381 3.54,8.38 L0.5,8.031 C0.244,8.031 0.037,8.237 0.037,8.492 L0.387,11.532 C0.387,11.788 0.594,11.995 0.849,11.995 L1.733,11.112 L3.047,12.734 L3.047,15.931 L4.947,15.983 L4.947,11.958 L3.129,9.714 L4.002,8.842 L4.002,8.842 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-disk-antenna">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>146</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(2.000000, 0.000000)" fill="#434343">
+            <path d="M8.916,8.877 C6.358,11.436 2.381,11.611 0.039,9.268 L9.308,-0.002 C11.65,2.342 11.477,6.316 8.916,8.877 L8.916,8.877 Z" class="si-glyph-fill"></path>
+            <path d="M2.625,5.958 C1.779,5.113 1.842,3.684 2.762,2.764 C3.682,1.844 5.112,1.784 5.955,2.627 L2.625,5.958 L2.625,5.958 Z" class="si-glyph-fill"></path>
+            <path d="M11.644,15.997 L4.378,15.997 C4.249,15.997 4.129,15.929 4.064,15.817 C3.997,15.707 3.997,15.568 4.06,15.455 L7.75,8.873 C7.815,8.758 7.937,8.687 8.069,8.687 L8.071,8.687 C8.204,8.688 8.327,8.76 8.389,8.876 L11.963,15.458 C12.025,15.571 12.022,15.708 11.957,15.818 C11.893,15.93 11.773,15.997 11.644,15.997 L11.644,15.997 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

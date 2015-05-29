@@ -1,0 +1,14 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-document-arrow-left">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>Document-backward</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(1.000000, 0.000000)" fill="#434343">
+            <path d="M9,0 L9,4 L13,4 L9,0 Z" class="si-glyph-fill"></path>
+            <path d="M8,5 L8,0.042 L2.033,0.042 L2.033,11.062 L3,10.258 L3,11.917 L5,12 L5,15.042 L3,15.042 L3,15.979 L12.98,15.979 L12.98,5 L8,5 Z" class="si-glyph-fill"></path>
+            <path d="M1.9,12.004 L1.897,13.004 L3.941,13.004 L3.941,13.979 L1.892,13.979 L1.888,14.958 L0.042,13.506 L1.9,12.004 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

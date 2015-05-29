@@ -1,0 +1,16 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-mail-has-mail">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>165</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#434343">
+            <g transform="translate(3.000000, 0.000000)">
+                <path d="M0.00399999996,0 L0.00399999996,7 L5.031,11 L9.955,7 L9.955,3.031 L5,3.026 L5,0 L0.00399999996,0 Z M7.969,8.016 L1.969,8.016 L1.969,6.969 L7.969,6.969 L7.969,8.016 L7.969,8.016 Z M5.953,5 L5.953,6 L1.953,6 L1.953,5 L5.953,5 L5.953,5 Z" class="si-glyph-fill"></path>
+                <path d="M6,0 L6,1.951 L9.848,1.951 L6,0 Z" class="si-glyph-fill"></path>
+            </g>
+            <path d="M15.34,4.963 L12.774,3.067 L12.774,4.172 L15.094,6.158 L15.094,6.812 L12.063,9.601 L15.079,14 L13.985,14.015 L11.395,10.276 L8.001,13.062 L4.739,10.29 L2.032,14.016 L0.923,14.016 L4.058,9.602 L0.908,6.782 L0.923,6.092 L5.19,2.251 L5.174,0.892 L0.725,4.964 C0.366,4.964 0.018,5.255 0.018,5.614 L0.018,14.263 C0.018,14.623 0.366,14.969 0.725,14.969 L15.342,14.969 C15.701,14.969 15.992,14.623 15.992,14.263 L15.992,5.614 C15.989,5.254 15.699,4.963 15.34,4.963 L15.34,4.963 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>

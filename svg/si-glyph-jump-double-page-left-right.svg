@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+<svg viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="si-glyph si-glyph-jump-double-page-left-right">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>957</title>
+    
+    <defs></defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 1.000000)" fill="#434343">
+            <path d="M16,7.062 L14.172,4.25 C13.849,3.927 13.325,3.927 13.002,4.25 L13.002,6.026 L10.944,6.026 L10.944,0.526 C10.944,0.526 10.513,0.026 9.986,0.026 C9.457,0.026 9.028,0.526 9.028,0.526 L9.028,13.5 C9.028,13.5 9.457,14 9.986,14 C10.513,14 10.944,13.5 10.944,13.5 L10.944,8 L13.002,8 L13.002,9.758 C13.325,10.08 13.849,10.08 14.172,9.758 L16,7.062 L16,7.062 Z" class="si-glyph-fill"></path>
+            <path d="M5.986,0.026 C5.457,0.026 5.028,0.526 5.028,0.526 L5.028,6.083 L2.97,6.074 L2.97,4.302 C2.647,3.98 2.123,3.98 1.8,4.302 L0,7 L1.801,9.75 C2.124,10.072 2.648,10.072 2.971,9.75 L2.971,7.966 L5.029,7.958 L5.029,13.5 C5.029,13.5 5.458,14 5.987,14 C6.514,14 6.945,13.5 6.945,13.5 L6.945,0.526 C6.944,0.526 6.514,0.026 5.986,0.026 L5.986,0.026 Z" class="si-glyph-fill"></path>
+        </g>
+    </g>
+</svg>
