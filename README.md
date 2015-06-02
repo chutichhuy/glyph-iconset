@@ -1,4 +1,6 @@
-# Glyph SVG Icon Set
+# Glyph, a versatile SVG icon set 
+
+http://glyph.smarticons.co
 
 ![Preview](https://raw.githubusercontent.com/frexy/glyph-iconset/master/cover.png)
 
@@ -62,6 +64,10 @@ Currently, xlinked elements can not be styled with CSS in webkit-based and IE. S
 The polyfill repo is here: https://github.com/frexy/svg-sprite-polyfill
 
 That's it!
+
+## Todo
+*   Sprite generator.
+*   New icons.
 
 ## License
 
