@@ -6,8 +6,6 @@ http://glyph.smarticons.co
 
 Glyph is a collection of ~800 beautiful pixel-perfect SVG icons, designed for the modern web. Glyph is 16x16, but because it's SVG, it can be any size you want.
 
-Check it out at SmartIcons: https://smarticons.co/set/glyph
-
 ## Usage
 
 There are many ways to put an SVG icon into your web page. 
