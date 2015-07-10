@@ -1,0 +1,35 @@
+{
+  "name": "glyph-iconset",
+  "version": "0.0.2",
+  "description": "An open source icon set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frexy/glyph-iconset.git"
+  },
+  "keywords": [
+    "icon",
+    "icon",
+    "set",
+    "svg"
+  ],
+  "author": "Frexy",
+  "license": "CC BY-SA 4.0",
+  "bugs": {
+    "url": "https://github.com/frexy/glyph-iconset/issues"
+  },
+  "homepage": "https://github.com/frexy/glyph-iconset",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "handlebars": "^3.0.3",
+    "icon-webcomponent": "0.0.5",
+    "svg-sprite-generator": "0.0.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-exec": "^0.4.6"
+  }
+}
