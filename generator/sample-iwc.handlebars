@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>Sample</title>
+        <style>
+            body {
+                font-family:Arial, sans-serif;
+            }
+            h3 {
+                margin-left:10px;
+            }
+            .icon-grid {
+                margin: 0;
+                padding: 0;
+                list-style: none;
+            }
+            .icon-grid > li {
+                display:inline-block;
+                margin: 10px;
+                padding: 10px;
+                width: 104px;
+                height: 124px;
+                text-align:center;
+                border:1px solid #dce5e7;
+            }
+            .icon-grid  svg {
+                width: 64px;
+                height: 64px;
+                margin: 10px;
+            }
+            .icon-grid  input {
+                width: 64px;
+            }
+        </style>
+        <script src="iconwc.js"></script>
+    </head>
+    <body>
+        <ul class="icon-grid">
+            {{#each icons}}
+            <li>
+                <svg-icon>
+                    <src href="sprite.svg#{{name}}" />
+                </svg-icon> 
+                <input type="text" onClick="this.select();" value="&lt;svg-icon&gt;&lt;src href=&quot;sprite.svg#{{name}}&quot; /&gt;&lt;/svg-icon&gt;" />
+            </li>
+            {{/each}}
+        </ul>
+</body>

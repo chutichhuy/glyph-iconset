@@ -7,7 +7,7 @@ module.exports = function(grunt) {
                 stdout: true
             },
             sprite: {
-                command: 'node generator/generate.js -f sprite/list.csv -o sprite/sprite.svg -s sprite/sample.html',
+                command: 'node generator/generate.js -f sprite/list.csv -o sprite/sprite.svg -s sprite/sample.html -w sprite/sample-iwc.html',
                 stdout: true
             }
         }
