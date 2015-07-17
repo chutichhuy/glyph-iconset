@@ -40,7 +40,7 @@ This method makes use of the ```<use>``` tag to link a part of SVG content from 
 
 ### Use as a web component
 
-The [https://github.com/frexy/svg-icon-webcomponent](icon web component) provides a great way to embed icons in your design by using a custom tag. Please check ```sprite/sample-iwc.html``` for code snippets.
+The [icon web component](https://github.com/frexy/svg-icon-webcomponent) provides a great way to embed icons in your design by using a custom tag. Please check ```sprite/sample-iwc.html``` for code snippets.
 
 ```html
 <svg-icon>
@@ -71,7 +71,7 @@ Style some specified icons
 
 ## Custom sprite generator
 
-From version 1.1, Glyph comes with a custom sprite generator script. You need [http://nodejs.org](Node.js) in order to use this script. 
+From version 1.1, Glyph comes with a custom sprite generator script. You need [Node.js](http://nodejs.org) in order to use this script. 
 
 With your favorite terminal, change to the glyph directory, then:
 
